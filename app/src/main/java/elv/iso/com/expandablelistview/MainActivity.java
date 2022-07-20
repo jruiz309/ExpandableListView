@@ -1,6 +1,6 @@
 package elv.iso.com.expandablelistview;
 
-
+///Las papas se deben lavar bien antes de cocer
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ExpandableListAdapter;
