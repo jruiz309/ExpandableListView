@@ -14,7 +14,7 @@ import java.util.List;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-
+	//Esta actividad determina el cambio realizado con base el la aplicacion
     private ExpandableListView expandableListView;
     private ExpandableListAdapter expandableListAdapter;
     private List<String> expandableListNombres;
